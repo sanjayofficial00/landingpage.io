@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/oatgcefb/sanjayofficial00.xyz/
+    - /bin/cp * $DEPLOYPATH
+    
